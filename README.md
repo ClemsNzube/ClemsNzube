@@ -1,5 +1,18 @@
-# 💫 About Me:
-## Welcome to My GitHub Profile! 👋<br><br>I'm Clement, a passionate technical writer and web developer, with a knack for turning complex concepts into easy-to-understand content and creating elegant web solutions. Here's a bit about me:<br><br>- 📝 I specialize in crafting clear and concise documentation for developers, users, and other stakeholders.<br>- 💻 As a web developer, I code in HTML, CSS, JavaScript, and more to bring creative web ideas to life.<br>- 🌐 I'm enthusiastic about responsive web design, accessibility, and user experience.<br>- 📘 I believe in the power of knowledge sharing and open source collaboration.<br><br>Feel free to explore my repositories, where you'll find projects related to technical writing and web development. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
+# About Me:
+
+## Welcome to My GitHub Profile! 👋
+
+I'm Clement, a dedicated technical writer and proficient web developer specializing in backend development with Django. Here's a concise overview of my expertise and interests:
+
+- 📝 **Technical Writing**: I excel in producing comprehensive and easily understandable documentation tailored for developers, users, and stakeholders alike.
+
+- 💻 **Web Development**: My coding proficiency spans across HTML, CSS, JavaScript, and more, enabling me to develop robust web solutions with a focus on backend functionality using Django.
+
+- 🌐 **Web Design and UX**: I have a keen interest in responsive web design, accessibility, and enhancing user experience through intuitive interfaces.
+
+- 📘 **Knowledge Sharing**: I actively contribute to knowledge sharing and foster open-source collaboration within the developer community.
+
+Feel free to explore my repositories, where you'll find projects related to technical writing and Django backend development. I'm always open to new opportunities and collaborations, so please don't hesitate to reach out!
 
 
 ## 🌐 Socials:
